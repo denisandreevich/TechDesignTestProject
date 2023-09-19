@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Spine\version.txt" />
+    <None Include="Assets\AddressableAssetsData\link.xml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
