@@ -853,10 +853,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="spine-unity-examples.csproj" />
     <ProjectReference Include="spine-csharp.csproj" />
-    <ProjectReference Include="spine-unity-examples-editor.csproj" />
     <ProjectReference Include="spine-unity.csproj" />
     <ProjectReference Include="spine-unity-editor.csproj" />
+    <ProjectReference Include="spine-unity-examples.csproj" />
+    <ProjectReference Include="spine-unity-examples-editor.csproj" />
   </ItemGroup>
 </Project>
