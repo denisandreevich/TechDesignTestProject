@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\Ноутик\\.nuget\\packages\\",
+        "outputPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ноутик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj"
+              },
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-editor.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-editor.csproj"
+              },
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples-editor.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples-editor.csproj"
+              },
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj"
+              },
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj",
+        "projectName": "spine-csharp",
+        "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj",
+        "packagesPath": "C:\\Users\\Ноутик\\.nuget\\packages\\",
+        "outputPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ноутик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-editor.csproj",
+        "projectName": "spine-unity-editor",
+        "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-editor.csproj",
+        "packagesPath": "C:\\Users\\Ноутик\\.nuget\\packages\\",
+        "outputPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ноутик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj"
+              },
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples-editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples-editor.csproj",
+        "projectName": "spine-unity-examples-editor",
+        "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples-editor.csproj",
+        "packagesPath": "C:\\Users\\Ноутик\\.nuget\\packages\\",
+        "outputPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ноутик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj"
+              },
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj",
+        "projectName": "spine-unity-examples",
+        "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj",
+        "packagesPath": "C:\\Users\\Ноутик\\.nuget\\packages\\",
+        "outputPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ноутик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj"
+              },
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj",
+        "projectName": "spine-unity",
+        "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj",
+        "packagesPath": "C:\\Users\\Ноутик\\.nuget\\packages\\",
+        "outputPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ноутик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj": {
+                "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -11,6 +11,61 @@
         "runtime": {
           "bin/placeholder/spine-csharp.dll": {}
         }
+      },
+      "spine-unity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "spine-csharp": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/spine-unity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/spine-unity.dll": {}
+        }
+      },
+      "spine-unity-editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "spine-csharp": "1.0.0",
+          "spine-unity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/spine-unity-editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/spine-unity-editor.dll": {}
+        }
+      },
+      "spine-unity-examples/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "spine-csharp": "1.0.0",
+          "spine-unity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/spine-unity-examples.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/spine-unity-examples.dll": {}
+        }
+      },
+      "spine-unity-examples-editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "spine-unity": "1.0.0",
+          "spine-unity-examples": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/spine-unity-examples-editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/spine-unity-examples-editor.dll": {}
+        }
       }
     }
   },
@@ -19,11 +74,35 @@
       "type": "project",
       "path": "spine-csharp.csproj",
       "msbuildProject": "spine-csharp.csproj"
+    },
+    "spine-unity/1.0.0": {
+      "type": "project",
+      "path": "spine-unity.csproj",
+      "msbuildProject": "spine-unity.csproj"
+    },
+    "spine-unity-editor/1.0.0": {
+      "type": "project",
+      "path": "spine-unity-editor.csproj",
+      "msbuildProject": "spine-unity-editor.csproj"
+    },
+    "spine-unity-examples/1.0.0": {
+      "type": "project",
+      "path": "spine-unity-examples.csproj",
+      "msbuildProject": "spine-unity-examples.csproj"
+    },
+    "spine-unity-examples-editor/1.0.0": {
+      "type": "project",
+      "path": "spine-unity-examples-editor.csproj",
+      "msbuildProject": "spine-unity-examples-editor.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "spine-csharp >= 1.0.0"
+      "spine-csharp >= 1.0.0",
+      "spine-unity >= 1.0.0",
+      "spine-unity-editor >= 1.0.0",
+      "spine-unity-examples >= 1.0.0",
+      "spine-unity-examples-editor >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,9 +111,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj",
-      "projectName": "spine-unity",
-      "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj",
+      "projectUniqueName": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\Assembly-CSharp.csproj",
       "packagesPath": "C:\\Users\\Ноутик\\.nuget\\packages\\",
       "outputPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\obj\\",
       "projectStyle": "PackageReference",
@@ -53,6 +132,18 @@
           "projectReferences": {
             "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj": {
               "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-csharp.csproj"
+            },
+            "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-editor.csproj": {
+              "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-editor.csproj"
+            },
+            "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples-editor.csproj": {
+              "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples-editor.csproj"
+            },
+            "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj": {
+              "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity-examples.csproj"
+            },
+            "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj": {
+              "projectPath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj"
             }
           }
         }

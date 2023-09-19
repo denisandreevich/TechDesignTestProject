@@ -53,9 +53,10 @@
     <Analyzer Include="C:\Users\Ноутик\.vscode\extensions\visualstudiotoolsforunity.vstuc-0.9.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\animation_activator.cs" />
     <Compile Include="Assets\Scripts\scene_changer.cs" />
     <Compile Include="Assets\Scripts\buttons_activator.cs" />
-    <Compile Include="Assets\Scripts\turn_on_music.cs" />
+    <Compile Include="Assets\Scripts\music_player.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Spine\version.txt" />

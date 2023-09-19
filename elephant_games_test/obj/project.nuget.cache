@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Hf581pdBXhbQtENmgzRA377ZWAyBLS7hv/hEkbt36tGB974wnSFHhmAMuRHT67BQ2Ao2WdO8vtyOBULWjAiIg==",
+  "dgSpecHash": "v3bMgIfi//1tYzfn2B5z482KWQIMGS1soKGO2il8qCFrr1c9bK+26tLv8E3molfuNTR+1wrjgOxd+5QFtYFgnw==",
   "success": true,
-  "projectFilePath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\spine-unity.csproj",
+  "projectFilePath": "c:\\Games\\Gitgames\\elephant_games_test\\elephant_games_test\\Assembly-CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
